@@ -1,0 +1,22 @@
+{
+  "name": "practiceplaywright",
+  "version": "1.0.0",
+  "description": "This is a practice repo for Playwright &amp; JS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebecca-Stone/practicePlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebecca-Stone/practicePlaywright/issues"
+  },
+  "homepage": "https://github.com/Rebecca-Stone/practicePlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  }
+}
